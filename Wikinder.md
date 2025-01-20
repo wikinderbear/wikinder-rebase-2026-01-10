@@ -1,16 +1,18 @@
 ## Wiki hosts
 
 * [GitHub Wiki](https://github.com/wikinder/wikinder/wiki)
-    * [GitHub Wiki SEE](https://github-wiki-see.page/m/wikinder/wikinder/wiki_index)
+    * [SEE](https://github-wiki-see.page/m/wikinder/wikinder/wiki_index)
 * [GitLab Wiki](https://gitlab.com/wikinder/wikinder/-/wikis/home) (read-only)
 
 ## Social networks
 
 * [Facebook](https://www.facebook.com/wikinder)
+* [Instagram](https://www.instagram.com/wikindergarten/)
 * [LinkedIn](https://www.linkedin.com/company/wikinder/)
+* [Threads](https://www.threads.net/@wikindergarten)
 * [TikTok](https://www.tiktok.com/@wikinder)
 * [X](https://x.com/wikinder)
-* [X (Japanese)](https://x.com/wikinderjp)
+    * [Japanese](https://x.com/wikinderjp)
 * [YouTube](https://www.youtube.com/@wikinder)
 
 ## Archives
@@ -27,7 +29,7 @@
 
 * [Archive.today](https://archive.today/https://x.com/wikinder/status/*)
 
-### X (Japanese)
+#### Japanese
 
 * [Archive.today](https://archive.today/https://x.com/wikinderjp/status/*)
 
