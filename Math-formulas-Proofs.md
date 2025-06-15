@@ -2,33 +2,37 @@
 
 ## Euler's formula
 
-Assume that $e^{ix}$ is a complex number and can be written as:
-
-$e^{ix} = f + ig.$ (Eq. 1)
+Let $e^{ix} = f + ig$. (Eq. 1)
 
 Differentiate both sides with respect to $x$:
 
 $(e^{ix})' = (f + ig)'$
 
-$ie^{ix} = f' + ig'.$
+$ie^{ix} = f' + ig'$ (Eq. 2)
 
 Substitute Eq. 1 into the left-hand side:
 
 $i(f + ig) = f' + ig'$
 
-$-g + if = f' + ig'.$
+$-g + if = f' + ig'$
 
 Equate the real and imaginary parts of both sides:
 
-$-g = f',$
+$-g = f'$
 <br>
-$f = g'.$
+$f = g'$
 
-Substitute one equation into the other:
+Which can be rewritten as:
 
-$f'' = -f,$
+$f'' = -f$
 <br>
-$g'' = -g.$
+$g'' = -g$
+
+These are second-order differential equations. By substituting $x = 0$ into Eqs. 1 and 2, we obtain the initial conditions $f(0) = 1$, $f'(0) = 0$, $g(0) = 0$, and $g'(0) = 1$. The unique solutions are:
+
+$f = \cos x$
+<br>
+$g = \sin x$
 
 ## Algebraic identities
 
