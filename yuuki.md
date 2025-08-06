@@ -9,7 +9,22 @@
 
 **Yuuki Konno** (金野 裕希, _Konno Yūki_, born May 17, 1994) is a Japanese Wikid.
 
-## Early life
+## Research interests
+
+* "Make 24" puzzle
+    * Normal form of a numerical expression (like converting $8 + 2$ to $2 + 8$)
+* [[Bear math|Math#Bear math]]
+* [[Math in anime]]
+* 3x3 shogi
+* [[Chinese characters with the most strokes]]
+* Kaibun
+* Shiritori with country names
+* Low-level runs in Genshin Impact
+
+## Biography
+
+<details>
+<summary>[show]</summary>
 
 yuuki was born on May 17, 1994, in Ninohe, Iwate, and grew up in Esashi, Iwate. His mother, Yūko Konno (née Jūmonji), was a nurse, and his father, Kōji Konno, was a medical assistant and later a labor activist.[^1]
 
@@ -35,3 +50,5 @@ In 2005, he dropped out of Esashi Municipal Iwayadō Elementary School in fifth 
 [^4]: Wada (2007).
 
 [^5]: Anonymous et al. (2004).
+
+</details>
