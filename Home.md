@@ -1,12 +1,14 @@
-[[About|Wikinder]] · [IG](https://www.instagram.com/wikindergarten/) · [TikTok](https://www.tiktok.com/@wikinder) · [X](https://x.com/wikinder) ([jp](https://x.com/wikinderjp)) · [YouTube](https://www.youtube.com/@wikinder)
+[[About|Wikinder]] · [Discord](https://discord.gg/bgEXkwxnQp) <sub>([jp](https://discord.gg/qPE8DyuVw5))</sub> · [IG](https://www.instagram.com/wikindergarten/) · [TikTok](https://www.tiktok.com/@wikinder) · [X](https://x.com/wikinder) <sub>([jp](https://x.com/wikinderjp))</sub> · [YouTube](https://www.youtube.com/@wikinder)
 
 ## Welcome to Wikinder
 
 $(a + b)^2 = a^2 + 2ab + b^2$
 
-<img alt="A rose made of Lego" src="https://github.com/user-attachments/assets/43852a1a-73e1-4a3d-9143-fcc15274040f" height="400">
+<img alt="A rose made of Lego" src="https://github.com/user-attachments/assets/43852a1a-73e1-4a3d-9143-fcc15274040f" height="200">
 
-![Sheet music for "Row, Row, Row Your Boat"](https://github.com/user-attachments/assets/40e65b09-9ad1-4a03-9478-7c81dea11514)
+<br>
+
+<img alt="Sheet music for &quot;Row, Row, Row Your Boat&quot;" src="https://github.com/user-attachments/assets/40e65b09-9ad1-4a03-9478-7c81dea11514" height="100">
 
 <details>
 <summary>[show]</summary>
@@ -20,9 +22,21 @@ $(a + b)^2 = a^2 + 2ab + b^2$
 }
 ```
 
+https://github.com/user-attachments/assets/2cbf4e6e-dc5b-4ff1-b04a-8373a4738dbf
+
 </details>
 
-https://github.com/user-attachments/assets/2cbf4e6e-dc5b-4ff1-b04a-8373a4738dbf
+* [[Math]]
+* Languages
+    * [[Chinese characters with the most strokes]]
+    * Japanese
+        * [[Kaibun]] (palindromes)
+        * [[Shiritori]] (word chain game)
+* Games
+    * [[Othello]]
+    * [[Chess]]
+    * [[Shogi]]
+    * [[Go]]
 
 ## Donors
 
