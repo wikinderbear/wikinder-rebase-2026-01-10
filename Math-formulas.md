@@ -1,4 +1,11 @@
+< [[Math]]
+
+<details>
+<summary>Subpages</summary>
+
 * [[Proofs|Math formulas proofs]]
+
+</details>
 
 ## Euler's identities
 
