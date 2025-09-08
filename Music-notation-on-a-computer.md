@@ -1,8 +1,8 @@
-MusicXML is an interchange format for musical scores. However, it is too verbose to write by hand.
+MusicXML is an interchange format for musical scores. MuseScore supports it. However, it is too verbose to write by hand.
 
 LilyPond notation is useful for writing simple scores. It can be converted to MusicXML using python-ly, although support is limited.
 
-This article shows rough LilyPond notation for several nursery rhymes. See the [How to convert it](#how-to-convert-it) section for the full source code. See [my repo](https://github.com/yuukiarchive/sheetmusic) for all files.
+Below, you'll find LilyPond fragments for various nursery rhymes. For the full source code and conversion instructions, see [#How to convert LilyPond files](#how-to-convert-lilypond-files). All files are available in [my repo](https://github.com/yuukiarchive/sheetmusic).
 
 ## Row, Row, Row Your Boat
 
@@ -20,12 +20,18 @@ This article shows rough LilyPond notation for several nursery rhymes. See the [
 
 ## Twinkle, Twinkle, Little Star
 
-## How to convert it
+## How to convert LilyPond files
 
-<details>
-<summary>[show]</summary>
+Prerequisites:
 
-row.ly:
+* lilypond
+* librsvg
+* fluidsynth
+    * FluidR3_GM.sf2
+* ffmpeg
+* python-ly
+
+Example of the full source code for "[Row, Row, Row Your Boat](#row-row-row-your-boat)" (row.ly):
 
 ```lilypond
 \version "2.24.4"
@@ -55,28 +61,26 @@ Convert to SVG and MIDI:
 lilypond --svg -dcrop -dmidi-extension=mid row.ly
 ```
 
-Set the background color to white:
+Set the SVG background color to white:
 
 ```sh
 rsvg-convert -b white -f svg -o row.cropped.svg row.cropped.svg
 ```
 
-Convert to WAV:
+Convert MIDI to WAV:
 
 ```sh
 fluidsynth -ni FluidR3_GM.sf2 -F row.wav row.mid
 ```
 
-Convert to WebM:
+Convert WAV to WebM:
 
 ```sh
 ffmpeg -i row.wav -c:a libopus row.webm
 ```
 
-Convert to MusicXML:
+Convert LilyPond to MusicXML:
 
 ```sh
 ly musicxml row.ly > row.musicxml
 ```
-
-</details>
