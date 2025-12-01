@@ -32,10 +32,11 @@
 
 ## Archives
 
-<details>
-<summary>[show]</summary>
+### Wiki
 
-- [Wiki](https://archive.today/wikinder.org)
-- [X](https://twilog.togetter.com/wikinder)
+- [Archives](https://github.com/wikinder/wikinder.github.io#archives)
 
-</details>
+### X
+
+- [Twilog](https://twilog.togetter.com/wikinder)
+- [Posfie](https://posfie.com/@wikinder)
