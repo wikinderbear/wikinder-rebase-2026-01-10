@@ -1,0 +1,383 @@
+pick fc7162f # "2025-01-01T21:09:52+09:00", "yuuki", "Initial Home page"
+
+pick 350891d # "2025-01-16T17:54:18+09:00", "yuuki", "Created _Footer (markdown)"
+exec git commit --amend -m 'docs(_Footer): create'
+
+pick b6ad849 # "2025-01-17T23:44:56+09:00", "yuuki", "Created bear (markdown)"
+exec git commit --amend -m 'docs(bear): create'
+
+pick 9638c6d # "2025-01-18T01:28:44+09:00", "yuuki", ""
+exec git commit --amend -m 'docs(License): create'
+
+pick 05ebc3b # "2025-01-16T23:50:58+09:00", "yuuki", "Created yuuki (markdown)"
+fixup b53f0cf # "2025-01-19T07:16:52+09:00", "yuuki", "Updated yuuki (markdown)"
+exec git commit --amend --date='2025-01-19T07:16:52+09:00' -m 'docs(yuuki): create'
+
+pick 0b03297 # "2025-01-19T23:55:02+09:00", "yuuki", "Created Wikinder (markdown)"
+fixup f5c7398 # "2025-01-21T03:38:31+09:00", "yuuki", "Updated Wikinder (markdown)"
+exec git commit --amend --date='2025-01-21T03:38:31+09:00' -m 'docs(Wikinder): create'
+
+pick 3bf65a3 # "2025-01-16T23:17:44+09:00", "yuuki", "Updated Home (markdown)"
+fixup 6719737 # "2025-01-18T00:41:47+09:00", "yuuki", "Updated Home (markdown)"
+fixup eb51382 # "2025-01-20T21:51:48+09:00", "yuuki", "Updated Home (markdown)"
+fixup 7c1ea66 # "2025-01-24T22:05:01+09:00", "yuuki", "Updated Home (markdown)"
+exec git commit --amend --date='2025-01-24T22:05:01+09:00' -m 'docs(Home): add social links'
+
+pick a8f1bac # "2025-02-01T23:26:05+09:00", "yuuki", "Updated Home (markdown)"
+exec git commit --amend -m 'docs(Home): add donor'
+
+drop 7e1ebad # "2025-03-04T10:56:16+09:00", "yuuki", "Created Mathematics in anime (markdown)"
+drop 2ab6f2a # "2025-05-21T02:05:40+09:00", "yuuki", "Updated Math in anime (markdown)"
+drop 5c5f086 # "2025-08-07T02:51:01+09:00", "yuuki", "Updated Math in anime (markdown)"
+drop 3475415 # "2025-09-03T16:48:28+09:00", "yuuki", "Updated Math in anime (markdown)"
+drop d498bb9 # "2025-09-04T01:52:41+09:00", "yuuki", "Updated Math in anime (markdown)"
+drop e594773 # "2025-11-24T21:37:13+09:00", "yuuki", "Updated Math in anime (markdown)"
+drop 0768a5e # "2025-11-26T21:58:17+09:00", "yuuki", "Updated Math in anime (markdown)"
+
+drop eef973e # "2025-03-04T11:25:04+09:00", "yuuki", "Created Low level Genshin Impact (markdown)"
+drop 2204602 # "2025-03-05T19:29:50+09:00", "yuuki", "Updated Low level Genshin Impact (markdown)"
+drop f4139ec # "2025-06-25T17:22:54+09:00", "yuuki", "Updated Low level Genshin Impact (markdown)"
+drop ae81894 # "2025-07-16T04:07:33+09:00", "yuuki", "Updated Genshin Impact Low level run (markdown)"
+drop 436dc12 # "2025-08-07T03:52:50+09:00", "yuuki", "Updated Genshin Impact low level run (markdown)"
+
+pick 644f1ef # "2025-03-04T22:26:31+09:00", "雨", "Created 人格形成 (markdown)"
+
+pick 6d7db57 # "2025-03-06T16:28:36+09:00", "yuuki", "Created Elementary prime number theory (markdown)"
+fixup a49cab5 # "2025-03-10T15:33:07+09:00", "yuuki", "Updated Elementary prime number theory (markdown)"
+exec git commit --amend --date='2025-03-10T15:33:07+09:00' -m 'docs(Elementary prime number theory): create'
+
+pick 08be66a # "2025-03-17T00:11:12+09:00", "yuuki", "Updated Wikinder (markdown)"
+exec git commit --amend -m 'docs(Wikinder): replace Japanese Wikinder with Wikinder Japan'
+
+pick a5512d5 # "2025-03-17T00:12:04+09:00", "yuuki", "Updated Home (markdown)"
+exec git commit --amend -m 'docs(Home): replace Japanese Wikinder with Wikinder Japan'
+
+pick dd84cdf # "2025-03-19T21:06:56+09:00", "雨", "Created 青空 (markdown)"
+pick fd2f32c # "2025-03-20T06:14:25+09:00", "雨", "Created Anemone (markdown)"
+pick 250151b # "2025-03-20T15:48:04+09:00", "雨", "Updated Anemone (markdown)"
+pick 04a13cb # "2025-03-20T15:51:23+09:00", "雨", "Updated Anemone (markdown)"
+pick 53b3a1b # "2025-03-20T15:59:52+09:00", "雨", "Updated Anemone (markdown)"
+pick b09874b # "2025-03-20T16:02:53+09:00", "雨", "Updated Anemone (markdown)"
+
+drop 5453f27 # "2025-04-05T16:57:59+09:00", "yuuki", "Created Shogi (markdown)"
+drop 5c6e008 # "2025-04-06T14:18:15+09:00", "yuuki", "Updated Shogi (markdown)"
+
+drop 64146f6 # "2025-04-15T06:19:56+09:00", "yuuki", "Created Genshin Impact/Low level (markdown)"
+drop f8ffd90 # "2025-04-15T06:20:15+09:00", "yuuki", "Destroyed Genshin Impact Low level (markdown)"
+
+pick 69da41f # "2025-04-15T10:37:55+09:00", "yuuki", "Updated Elementary prime number theory (markdown)"
+exec git commit --amend -m 'docs(Elementary prime number theory): add divisibility'
+
+pick c4e49c1 # "2025-04-16T10:00:19+09:00", "yuuki", "Updated Elementary prime number theory (markdown)"
+exec git commit --amend -m 'docs(Mathematics of blocks): rename [[Elementary prime number theory]] -> [[Mathematics of blocks]]'
+
+pick 697c71d # "2025-04-21T00:27:45+09:00", "yuuki", "Created Kindergarten mathematics (markdown)"
+exec git commit --amend -m 'docs(Kindergarten mathematics): create'
+
+pick 319c64a # "2025-04-29T16:12:44+09:00", "yuuki", "Created Chinese characters with the most strokes (markdown)"
+exec git commit --amend -m 'docs(Chinese characters with the most strokes): create'
+
+pick 9e17ccf # "2025-04-16T22:03:00+09:00", "yuuki", "Updated Mathematics of blocks (markdown)"
+fixup 7471918 # "2025-04-17T19:33:41+09:00", "yuuki", "Updated Mathematics of blocks (markdown)"
+fixup fa4bc21 # "2025-04-21T23:57:29+09:00", "yuuki", "Updated Mathematics of blocks (markdown)"
+fixup a5e7030 # "2025-04-22T13:44:21+09:00", "yuuki", "Updated Mathematics of blocks (markdown)"
+fixup 2b9908b # "2025-04-29T16:52:01+09:00", "yuuki", "Updated Mathematics of blocks (markdown)"
+exec git commit --amend --date='2025-04-29T16:52:01+09:00' -m 'docs(Mathematics of blocks): replace content'
+
+pick 0a9202d # "2025-05-06T10:42:16+09:00", "yuuki", "Updated Home (markdown)"
+exec git commit --amend -m 'docs(Home): add math formula'
+
+pick c7c17f8 # "2025-02-09T04:32:39+09:00", "yuuki", "Updated yuuki (markdown)"
+fixup 629e938 # "2025-02-13T01:40:26+09:00", "yuuki", "Updated yuuki (markdown)"
+fixup 8e911d4 # "2025-02-26T02:41:09+09:00", "yuuki", "Updated yuuki (markdown)"
+fixup d5d45d9 # "2025-03-03T12:35:09+09:00", "yuuki", "Updated yuuki (markdown)"
+fixup 415b323 # "2025-03-10T13:43:17+09:00", "yuuki", "Updated yuuki (markdown)"
+fixup e29d561 # "2025-03-16T19:13:00+09:00", "yuuki", "Updated yuuki (markdown)"
+fixup 7147cd6 # "2025-03-27T03:48:43+09:00", "yuuki", "Updated yuuki (markdown)"
+fixup b013302 # "2025-04-10T06:57:35+09:00", "yuuki", "Updated yuuki (markdown)"
+fixup 8e7ab1f # "2025-05-02T23:10:40+09:00", "yuuki", "Updated yuuki (markdown)"
+fixup c08e7b6 # "2025-05-03T23:09:13+09:00", "yuuki", "Updated yuuki (markdown)"
+fixup 6094cca # "2025-05-04T18:57:10+09:00", "yuuki", "Updated yuuki (markdown)"
+fixup 9693d82 # "2025-05-05T02:41:47+09:00", "yuuki", "Updated yuuki (markdown)"
+fixup 588be1f # "2025-05-15T22:00:39+09:00", "yuuki", "Updated yuuki (markdown)"
+exec git commit --amend --date='2025-05-15T22:00:39+09:00' -m 'docs(yuuki): add bio'
+
+drop 38172ad # "2025-05-21T01:16:20+09:00", "yuuki", ""
+exec git mv Kindergarten-mathematics.md Kindergarten-math.md && git commit -m 'docs(Kindergarten math): rename [[Kindergarten mathematics]] -> [[Kindergarten math]]' --author='yuuki <yuuki@yuukikonno.com>' --date='2025-05-21T01:16:20+09:00'
+exec git mv Mathematics-of-blocks.md Math-of-blocks.md && git commit -m 'docs(Math of blocks): rename [[Mathematics of blocks]] -> [[Math of blocks]]' --author='yuuki <yuuki@yuukikonno.com>' --date='2025-05-21T01:16:20+09:00'
+
+drop 66aed90 # "2025-05-23T22:51:47+09:00", "yuuki", "Created _Sidebar (markdown)"
+drop 33f1dad # "2025-05-23T23:59:39+09:00", "yuuki", "Destroyed _Sidebar (markdown)"
+
+pick cd1ce72 # "2025-05-21T02:05:49+09:00", "yuuki", "Created Basic math formulas (markdown)"
+fixup 1592847 # "2025-05-22T23:52:10+09:00", "yuuki", "Updated Basic math formulas (markdown)"
+fixup ddb4c15 # "2025-05-23T16:25:47+09:00", "yuuki", "Updated Basic math formulas (markdown)"
+fixup d4fec82 # "2025-05-24T03:55:13+09:00", "yuuki", "Updated Basic math formulas (markdown)"
+exec git commit --amend --date='2025-05-24T03:55:13+09:00' -m 'docs(Basic math formulas): create'
+
+pick 99915f1 # "2025-05-24T17:10:56+09:00", "yuuki", "Updated Math of blocks (markdown)"
+exec git commit --amend -m 'docs(Math of blocks): update'
+
+drop 54c11f2 # "2025-05-26T03:01:48+09:00", "yuuki", "Created drawPoint geometry (markdown)"
+drop 3696d2b # "2025-06-20T21:16:49+09:00", "yuuki", "Updated drawPoint geometry (markdown)"
+drop 479f4c7 # "2025-06-24T18:13:43+09:00", "yuuki", "Updated Drawing lines with dots (markdown)"
+drop b64ab0b # "2025-06-28T09:49:28+09:00", "yuuki", "Updated Moving bears (markdown)"
+drop e635827 # "2025-07-04T07:18:04+09:00", "yuuki", "Updated Moving bears (markdown)"
+drop ca5a2d3 # "2025-07-16T04:14:27+09:00", "yuuki", "Updated Moving a bear (markdown)"
+drop 8deabaa # "2025-08-03T17:11:28+09:00", "yuuki", "Updated Moving bears (markdown)"
+drop 89d5e25 # "2025-08-07T02:58:08+09:00", "yuuki", "Updated Moving bears (markdown)"
+drop 96d8d0c # "2025-08-28T23:58:35+09:00", "yuuki", "Updated Moving bears (markdown)"
+drop 7b79ae6 # "2025-08-29T03:59:25+09:00", "yuuki", "Updated Moving bears (markdown)"
+drop e9456d9 # "2025-09-04T01:52:10+09:00", "yuuki", "Updated Moving bears (markdown)"
+drop 727f1a6 # "2025-11-24T21:37:23+09:00", "yuuki", "Updated Moving bears (markdown)"
+drop 2937b80 # "2025-11-26T22:00:08+09:00", "yuuki", "Updated Moving bears (markdown)"
+
+pick 4189e9c # "2025-05-21T01:16:34+09:00", "yuuki", "Updated Kindergarten math (markdown)"
+fixup c5e2fb4 # "2025-05-30T10:08:37+09:00", "yuuki", "Updated Kindergarten math (markdown)"
+exec git commit --amend -m 'docs(Kindergarten math): link [[Basic math formulas]]' --date='2025-05-30T10:08:37+09:00'
+
+pick c69e553 # "2025-06-12T12:38:17+09:00", "yuuki", "Updated Basic math formulas (markdown)"
+exec git reset --soft HEAD~1 && git mv Math-formulas.md Basic-math-formulas.md && git commit -m 'docs(Basic math formulas): add binomial theorem' --author='yuuki <yuuki@yuukikonno.com>' --date='2025-06-12T12:38:17+09:00'
+exec git mv Basic-math-formulas.md Math-formulas.md && git commit -m 'docs(Math formulas): rename [[Basic math formulas]] -> [[Math formulas]]' --author='yuuki <yuuki@yuukikonno.com>' --date='2025-06-12T12:38:17+09:00'
+
+drop 68b029e # "2025-06-12T18:45:11+09:00", "yuuki", "Created Trig identities from Euler's formula (markdown)"
+drop b0b2a81 # "2025-06-12T20:14:33+09:00", "yuuki", "Destroyed Trig identities from Euler's formula (markdown)"
+
+pick 2447951 # "2025-06-12T21:51:52+09:00", "yuuki", "Updated Math formulas (markdown)"
+exec git commit --amend -m "docs(Math formulas): split to [[Math formulas Proofs]]; add Euler's formula and trig identities"
+
+pick fd5560a # "2025-06-12T21:30:18+09:00", "yuuki", "Created Math formulas Proofs (markdown)"
+fixup 8b54751 # "2025-06-14T23:49:56+09:00", "yuuki", "Updated Math formulas Proofs (markdown)"
+fixup 73af814 # "2025-06-15T17:04:38+09:00", "yuuki", "Updated Math formulas Proofs (markdown)"
+exec git commit --amend --date='2025-06-15T17:04:38+09:00' -m "docs(Math formulas Proofs): split from [[Math formulas]]; add proofs of Euler's formula and trig identities"
+
+pick 62498e2 # "2025-06-21T23:31:40+09:00", "yuuki", "Updated Math of blocks (markdown)"
+exec git commit --amend -m 'docs(Counting bears): rename [[Math of blocks]] -> [[Counting bears]]'
+
+pick d0d3043 # "2025-06-12T20:31:44+09:00", "yuuki", "Updated Kindergarten math (markdown)"
+fixup 612d445 # "2025-06-20T21:34:23+09:00", "yuuki", "Updated Kindergarten math (markdown)"
+fixup 36525ff # "2025-06-21T05:58:57+09:00", "yuuki", "Updated Kinder math (markdown)"
+fixup 919be3f # "2025-06-21T23:31:58+09:00", "yuuki", "Updated Kindergarten math (markdown)"
+exec git commit --amend -m 'docs(Kindergarten math): update' --date='2025-06-21T23:31:58+09:00'
+
+pick d841b1a # "2025-06-24T17:55:20+09:00", "yuuki", "Updated Kindergarten math (markdown)"
+exec git commit --amend -m 'docs(Bear math): rename [[Kindergarten math]] -> [[Bear math]]'
+
+pick 9aaacc8 # "2025-06-21T23:40:15+09:00", "yuuki", "Updated Counting bears (markdown)"
+fixup 6520254 # "2025-06-24T19:00:34+09:00", "yuuki", "Updated Counting bears (markdown)"
+exec git commit --amend --date='2025-06-24T19:00:34+09:00' -m 'docs(Counting bears): replace blocks with bears'
+
+pick f7ea19c # "2025-06-28T07:34:20+09:00", "yuuki", "Updated Home (markdown)"
+exec git commit --amend -m 'docs(Home): add music score'
+
+pick 878dd27 # "2025-06-27T21:27:01+09:00", "yuuki", "Updated Chinese characters with the most strokes (markdown)"
+fixup fe14911 # "2025-06-28T09:04:48+09:00", "yuuki", "Updated Chinese characters with the most strokes (markdown)"
+exec git commit --amend --date='2025-06-28T09:04:48+09:00' -m 'docs(Chinese characters with the most strokes): add Japanese educational kanji'
+
+pick 8d49b01 # "2025-06-28T10:13:00+09:00", "bear", "Updated Home (markdown)"
+fixup 1a0f797 # "2025-06-28T10:31:34+09:00", "yuuki", "Updated Home (markdown)"
+fixup 041ba61 # "2025-06-28T23:52:21+09:00", "bear", "Updated Home (markdown)"
+fixup bc4f719 # "2025-06-29T00:08:11+09:00", "bear", "Updated Home (markdown)"
+exec git commit --amend --date='2025-06-29T00:08:11+09:00' -m 'docs(Home): add rose'
+
+pick 1577a6c # "2025-02-09T02:56:17+09:00", "yuuki", "Updated bear (markdown)"
+fixup faaeea8 # "2025-02-22T05:53:42+09:00", "yuuki", "Updated bear (markdown)"
+fixup 329b280 # "2025-02-26T02:42:05+09:00", "yuuki", "Updated bear (markdown)"
+fixup aa7026b # "2025-03-03T12:35:17+09:00", "yuuki", "Updated bear (markdown)"
+fixup 24c1ed3 # "2025-03-10T13:21:08+09:00", "yuuki", "Updated bear (markdown)"
+fixup eae44ff # "2025-05-02T16:44:50+09:00", "yuuki", "Updated bear (markdown)"
+fixup 6129432 # "2025-05-24T03:29:48+09:00", "yuuki", "Updated bear (markdown)"
+fixup b5bc30c # "2025-06-28T10:01:08+09:00", "yuuki", "Updated bear (markdown)"
+fixup 37c29a5 # "2025-07-16T04:23:20+09:00", "yuuki", "Updated bear (markdown)"
+exec git commit --amend --date='2025-07-16T04:23:20+09:00' -m 'docs(bear): add occupation'
+
+pick ae7a5d2 # "2025-06-06T16:40:07+09:00", "yuuki", "Updated yuuki (markdown)"
+fixup d533880 # "2025-06-07T12:30:59+09:00", "yuuki", "Updated yuuki (markdown)"
+fixup 2a95434 # "2025-06-08T15:35:50+09:00", "yuuki", "Updated yuuki (markdown)"
+fixup 9ca91d0 # "2025-07-16T04:55:08+09:00", "yuuki", "Updated yuuki (markdown)"
+exec git commit --amend --date='2025-07-16T04:55:08+09:00' -m 'docs(yuuki): move infobox to personal site'
+
+pick ef1b631 # "2025-06-24T18:14:46+09:00", "yuuki", "Updated Bear math (markdown)"
+fixup 7191858 # "2025-06-28T09:45:21+09:00", "yuuki", "Updated Bear math (markdown)"
+fixup d01343a # "2025-07-04T07:18:12+09:00", "yuuki", "Updated Bear math (markdown)"
+fixup 1437b80 # "2025-07-16T04:14:36+09:00", "yuuki", "Updated Bear math (markdown)"
+fixup 01a7dc5 # "2025-07-26T11:47:28+09:00", "yuuki", "Updated Bear math (markdown)"
+exec git reset --soft HEAD~1 && git mv Math.md Bear-math.md && git commit -m 'docs(Bear math): update' --author='yuuki <yuuki@yuukikonno.com>' --date='2025-07-26T11:47:28+09:00'
+exec git mv Bear-math.md Math.md && git commit -m 'docs(Math): rename [[Bear math]] -> [[Math]]' --author='yuuki <yuuki@yuukikonno.com>' --date='2025-07-26T11:47:28+09:00'
+
+pick 21b9665 # "2025-08-03T17:56:01+09:00", "yuuki", "Created README (markdown)"
+exec git commit --amend -m 'docs(README): start mirroring to https://github.com/wikinder/wikinder for DeepWiki; move old repo content to https://github.com/wikinder/assets'
+
+pick d766f96 # "2025-08-03T18:32:53+09:00", "yuuki", ""
+exec git commit --amend -m 'docs(LICENSE): rename [[License]] -> [[LICENSE]]'
+
+drop dbf8572 # "2025-08-03T19:21:56+09:00", "yuuki", ""
+exec git mv Math-formulas-Proofs.md Math-formulas-proofs.md && git commit -m 'docs(Math formulas proofs): rename [[Math formulas Proofs]] -> [[Math formulas proofs]]' --author='yuuki <yuuki@yuukikonno.com>' --date='2025-08-03T19:21:56+09:00'
+
+drop 82b9c6e # "2025-08-26T21:24:04+09:00", "anya", "Created 🌱 The Way of AI — As "Another Me," a True Partner (markdown)"
+drop a65bcd7 # "2025-11-18T09:54:18+09:00", "anya", "Destroyed 🌱 The Way of AI — As "Another Me," a True Partner (markdown)"
+
+pick c0925f2 # "2025-06-28T09:49:08+09:00", "yuuki", "Updated Counting bears (markdown)"
+fixup 93666bf # "2025-08-03T17:11:18+09:00", "yuuki", "Updated Counting bears (markdown)"
+fixup d264515 # "2025-08-07T02:57:58+09:00", "yuuki", "Updated Counting bears (markdown)"
+fixup 29d2379 # "2025-08-28T23:58:29+09:00", "yuuki", "Updated Counting bears (markdown)"
+fixup 5a62db6 # "2025-08-29T04:09:38+09:00", "yuuki", "Updated Counting bears (markdown)"
+exec git commit --amend --date='2025-08-29T04:09:38+09:00' -m 'docs(Counting bears): update'
+
+pick 2f536b9 # "2025-08-28T03:20:16+09:00", "yuuki", "Updated Chinese characters with the most strokes (markdown)"
+fixup f6d9db5 # "2025-08-29T10:41:30+09:00", "yuuki", "Updated Chinese characters with the most strokes (markdown)"
+exec git commit --amend --date='2025-08-29T10:41:30+09:00' -m 'docs(Chinese characters with the most strokes): replace GlyphWiki with non-transparent attachments for dark mode visibility'
+
+pick cb6efe2 # "2025-05-31T03:57:10+09:00", "yuuki", "Updated Wikinder (markdown)"
+fixup 75dd513 # "2025-06-21T15:45:47+09:00", "yuuki", "Updated Wikinder (markdown)"
+fixup 0cd03a0 # "2025-08-28T03:48:02+09:00", "yuuki", "Updated Wikinder (markdown)"
+fixup 24ce914 # "2025-09-01T02:18:18+09:00", "yuuki", "Updated Wikinder (markdown)"
+fixup da94ed6 # "2025-09-02T02:14:26+09:00", "yuuki", "Updated Wikinder (markdown)"
+exec git commit --amend --date='2025-09-02T02:14:26+09:00' -m 'docs(Wikinder): add founding date'
+
+pick 4aa3b12 # "2025-08-07T04:08:35+09:00", "yuuki", "Updated Math (markdown)"
+fixup c3788c3 # "2025-08-28T23:58:47+09:00", "yuuki", "Updated Math (markdown)"
+fixup 3763b20 # "2025-08-29T03:59:55+09:00", "yuuki", "Updated Math (markdown)"
+fixup fd5ca02 # "2025-09-03T16:47:29+09:00", "yuuki", "Updated Math (markdown)"
+fixup 5fb267e # "2025-09-04T01:51:46+09:00", "yuuki", "Updated Math (markdown)"
+exec git commit --amend --date='2025-09-04T01:51:46+09:00' -m 'docs(Math): link [[Are 111, 1111, and 11111 prime?]]'
+
+pick 7203b5b # "2025-09-03T23:55:58+09:00", "yuuki", "Created Are 111, 1111, and 11111 prime? (markdown)"
+fixup 65c0458 # "2025-09-04T04:49:04+09:00", "yuuki", "Updated Are 111, 1111, and 11111 prime? (markdown)"
+fixup 277ef42 # "2025-09-05T23:59:39+09:00", "yuuki", "Updated Are 111, 1111, and 11111 prime? (markdown)"
+fixup d2cd0a9 # "2025-09-06T07:44:40+09:00", "yuuki", "Updated Are 111, 1111, and 11111 prime? (markdown)"
+exec git commit --amend --date='2025-09-06T07:44:40+09:00' -m 'docs(Are 111, 1111, and 11111 prime?): create'
+
+drop 603a11a # "2025-09-08T08:33:34+09:00", "yuuki", "Updated _Footer (markdown)"
+drop b98d32e # "2025-10-29T07:53:40+09:00", "yuuki", "Updated _Footer (markdown)"
+
+pick ffe3279 # "2025-08-28T04:45:26+09:00", "yuuki", "Updated Home (markdown)"
+fixup a63dc7f # "2025-08-29T11:19:39+09:00", "yuuki", "Updated Home (markdown)"
+fixup 7aeb6ff # "2025-09-03T16:44:41+09:00", "yuuki", "Updated Home (markdown)"
+fixup 6f7481a # "2025-09-08T11:22:51+09:00", "yuuki", "Updated Home (markdown)"
+fixup eea1d32 # "2025-09-10T13:49:19+09:00", "yuuki", "Updated Home (markdown)"
+exec git commit --amend --date='2025-09-10T13:49:19+09:00' -m 'docs(Home): link [[Music notation on computers]]'
+
+pick 039c9ad # "2025-09-08T11:01:15+09:00", "yuuki", "Created Sheet music on a computer (markdown)"
+fixup a01385a # "2025-09-08T11:21:22+09:00", "yuuki", ""
+fixup d95c932 # "2025-09-08T23:47:10+09:00", "yuuki", "Updated Music notation on a computer (markdown)"
+fixup 5a880a6 # "2025-09-09T05:55:36+09:00", "yuuki", "Updated Music notation on a computer (markdown)"
+fixup 241f7bc # "2025-09-10T01:01:24+09:00", "yuuki", "Updated Music notation on a computer (markdown)"
+fixup 0a5ce73 # "2025-09-10T01:16:58+09:00", "yuuki", ""
+fixup ff3f61b # "2025-09-10T15:47:41+09:00", "yuuki", "Updated Music notation on computers (markdown)"
+exec git commit --amend --date='2025-09-10T15:47:41+09:00' -m 'docs(Music notation on computers): create'
+
+pick 40e8009 # "2025-10-15T08:52:54+09:00", "yuuki", "Created Wikinder Japan (markdown)"
+exec git commit --amend -m 'docs(Wikinder Japan): split from [[Wikinder]]'
+
+pick 7ac1d25 # "2025-10-15T08:53:40+09:00", "yuuki", "Updated Wikinder (markdown)"
+exec git commit --amend -m 'docs(Wikinder): split to [[Wikinder Japan]]'
+
+pick fcc2109 # "2025-11-04T17:53:06+09:00", "afastpcdot310plas7msamzent-web", "Created ブレインロッド五体合成したら(シークレット) (markdown)"
+
+pick 50baeb9 # "2025-09-02T03:27:26+09:00", "yuuki", "Updated bear (markdown)"
+fixup 898c92b # "2025-11-11T02:28:18+09:00", "yuuki", "Updated bear (markdown)"
+fixup 28d4015 # "2025-11-14T04:43:43+09:00", "yuuki", "Updated bear (markdown)"
+exec git commit --amend --date='2025-11-14T04:43:43+09:00' -m 'docs(bear): update'
+
+pick 46399d1 # "2025-08-07T04:26:02+09:00", "yuuki", "Updated yuuki (markdown)"
+fixup 1d594bd # "2025-08-28T23:59:49+09:00", "yuuki", "Updated yuuki (markdown)"
+fixup cb6bf84 # "2025-08-29T05:49:06+09:00", "yuuki", "Updated yuuki (markdown)"
+fixup 064af07 # "2025-09-01T23:53:13+09:00", "yuuki", "Updated yuuki (markdown)"
+fixup 565d8c8 # "2025-09-02T02:03:01+09:00", "yuuki", "Updated yuuki (markdown)"
+fixup c6155a0 # "2025-11-26T02:23:56+09:00", "yuuki", "Updated yuuki (markdown)"
+exec git commit --amend --date='2025-11-26T02:23:56+09:00' -m 'docs(yuuki): update'
+
+pick 291e190 # "2025-10-27T17:02:33+09:00", "yuuki", "Updated Home (markdown)"
+fixup fe67b7d # "2025-10-29T20:52:35+09:00", "yuuki", "Updated Home (markdown)"
+fixup 8462a21 # "2025-11-11T04:22:32+09:00", "yuuki", "Updated Home (markdown)"
+fixup dda3d46 # "2025-11-14T02:48:34+09:00", "yuuki", "Updated Home (markdown)"
+fixup 2550062 # "2025-11-20T08:47:41+09:00", "yuuki", "Updated Home (markdown)"
+fixup f4faa52 # "2025-11-21T17:40:43+09:00", "yuuki", "Updated Home (markdown)"
+fixup d56b162 # "2025-11-24T21:35:07+09:00", "yuuki", "Updated Home (markdown)"
+fixup 683cb0f # "2025-11-26T02:24:10+09:00", "yuuki", "Updated Home (markdown)"
+exec git commit --amend --date='2025-11-26T02:24:10+09:00' -m 'docs(Home): resize rose and convert to WebP for faster loading'
+
+pick cab1705 # "2025-11-26T02:25:34+09:00", "yuuki", "Updated Chinese characters with the most strokes (markdown)"
+exec git commit --amend -m 'docs(Chinese characters with the most strokes): update'
+
+pick 5da7a38 # "2025-11-26T02:26:04+09:00", "yuuki", "Updated Math (markdown)"
+exec git commit --amend -m 'docs(Math): update'
+
+pick 9710c79 # "2025-11-24T21:35:34+09:00", "yuuki", "Updated Are 111, 1111, and 11111 prime? (markdown)"
+fixup 16b4cf1 # "2025-11-26T21:57:53+09:00", "yuuki", "Updated Are 111, 1111, and 11111 prime? (markdown)"
+exec git commit --amend --date='2025-11-26T21:57:53+09:00' -m 'docs(Are 111, 1111, and 11111 prime?): update'
+
+pick 401edc5 # "2025-06-28T09:50:17+09:00", "yuuki", "Updated Math formulas (markdown)"
+fixup fb5ad9e # "2025-08-03T19:24:32+09:00", "yuuki", "Updated Math formulas (markdown)"
+fixup d3eb79e # "2025-09-03T16:48:11+09:00", "yuuki", "Updated Math formulas (markdown)"
+fixup 8daf9a4 # "2025-09-04T01:54:20+09:00", "yuuki", "Updated Math formulas (markdown)"
+fixup 6b0dcbf # "2025-11-24T21:36:30+09:00", "yuuki", "Updated Math formulas (markdown)"
+fixup 7afe4fd # "2025-11-26T21:58:29+09:00", "yuuki", "Updated Math formulas (markdown)"
+exec git commit --amend --date='2025-11-26T21:58:29+09:00' -m 'docs(Math formulas): update'
+
+pick 2b066ff # "2025-09-03T16:47:13+09:00", "yuuki", "Updated Math formulas proofs (markdown)"
+fixup 6c805c6 # "2025-09-04T01:53:30+09:00", "yuuki", "Updated Math formulas proofs (markdown)"
+fixup 7b43de3 # "2025-11-14T01:52:28+09:00", "yuuki", "Updated Math formulas proofs (markdown)"
+fixup be4de25 # "2025-11-24T21:36:49+09:00", "yuuki", "Updated Math formulas proofs (markdown)"
+fixup daea4e8 # "2025-11-26T21:59:05+09:00", "yuuki", "Updated Math formulas proofs (markdown)"
+exec git commit --amend --date='2025-11-26T21:59:05+09:00' -m 'docs(Math formulas proofs): update'
+
+pick 2f9e789 # "2025-09-03T16:50:57+09:00", "yuuki", "Updated Counting bears (markdown)"
+fixup 09bb405 # "2025-09-04T01:49:30+09:00", "yuuki", "Updated Counting bears (markdown)"
+fixup 733bc66 # "2025-11-24T21:36:11+09:00", "yuuki", "Updated Counting bears (markdown)"
+fixup d0fe2b3 # "2025-11-26T22:00:00+09:00", "yuuki", "Updated Counting bears (markdown)"
+exec git commit --amend --date='2025-11-26T22:00:00+09:00' -m 'docs(Counting bears): update'
+
+pick 124fbe5 # "2025-11-26T22:00:30+09:00", "yuuki", "Updated Music notation on computers (markdown)"
+exec git commit --amend -m 'docs(Music notation on computers): update'
+
+pick 81dac9d # "2025-10-29T07:29:27+09:00", "yuuki", "Updated Wikinder Japan (markdown)"
+fixup 3bbf992 # "2025-11-13T23:31:11+09:00", "yuuki", "Updated Wikinder Japan (markdown)"
+fixup b33590b # "2025-11-14T03:07:55+09:00", "yuuki", "Updated Wikinder Japan (markdown)"
+fixup 89ae59e # "2025-11-26T02:24:22+09:00", "yuuki", "Updated Wikinder Japan (markdown)"
+fixup 9edbbf2 # "2025-12-01T19:13:35+09:00", "yuuki", "Updated Wikinder Japan (markdown)"
+exec git commit --amend --date='2025-12-01T19:13:35+09:00' -m 'docs(Wikinder Japan): update'
+
+pick aafa55d # "2025-10-27T17:01:42+09:00", "yuuki", "Updated Wikinder (markdown)"
+fixup 4bea073 # "2025-10-29T07:29:07+09:00", "yuuki", "Updated Wikinder (markdown)"
+fixup 7729746 # "2025-11-13T23:31:01+09:00", "yuuki", "Updated Wikinder (markdown)"
+fixup d339499 # "2025-11-14T02:49:00+09:00", "yuuki", "Updated Wikinder (markdown)"
+fixup 82f52e1 # "2025-11-16T02:20:03+09:00", "yuuki", "Updated Wikinder (markdown)"
+fixup 3b03b1b # "2025-11-26T02:23:07+09:00", "yuuki", "Updated Wikinder (markdown)"
+fixup d5afb44 # "2025-12-01T19:13:46+09:00", "yuuki", "Updated Wikinder (markdown)"
+exec git commit --amend --date='2025-12-01T19:13:46+09:00' -m 'docs(Wikinder): update'
+
+pick 3cda3dd # "2025-12-11T13:50:48+09:00", "yuuki", "Created 堕落天-4 (markdown)"
+exec git commit --amend -m 'docs(堕落天-4): create'
+
+# Rebase 3cda3dd onto e5b22ec (219 commands)
+#
+# Commands:
+# p, pick <commit> = use commit
+# r, reword <commit> = use commit, but edit the commit message
+# e, edit <commit> = use commit, but stop for amending
+# s, squash <commit> = use commit, but meld into previous commit
+# f, fixup [-C | -c] <commit> = like "squash" but keep only the previous
+#                    commit's log message, unless -C is used, in which case
+#                    keep only this commit's message; -c is same as -C but
+#                    opens the editor
+# x, exec <command> = run command (the rest of the line) using shell
+# b, break = stop here (continue rebase later with 'git rebase --continue')
+# d, drop <commit> = remove commit
+# l, label <label> = label current HEAD with a name
+# t, reset <label> = reset HEAD to a label
+# m, merge [-C <commit> | -c <commit>] <label> [# <oneline>]
+#         create a merge commit using the original merge commit's
+#         message (or the oneline, if no original merge commit was
+#         specified); use -c <commit> to reword the commit message
+# u, update-ref <ref> = track a placeholder for the <ref> to be updated
+#                       to this position in the new commits. The <ref> is
+#                       updated at the end of the rebase
+#
+# These lines can be re-ordered; they are executed from top to bottom.
+#
+# If you remove a line here THAT COMMIT WILL BE LOST.
+#
+# However, if you remove everything, the rebase will be aborted.
+#
